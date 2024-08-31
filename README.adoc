@@ -10,12 +10,13 @@ This small project will help to setup a working environment (tested in Windows) 
 
 
 === Setup
+Note: My directory structure is "D:\GenesisDev\SGDK", "D:\GenesisDev\Projects", and "D:\GenesisDev\GensKMOD". You can modify the c_cpp_properties.json and tasks.json from ".vscode", to fit your structure with ease.
 
 * Extract SGDK to a prefered directory.
-* Create an environment variable `GDK` pointing to the SGDK directory (e.g. "C:/dev/sgdk").
+* Create an environment variable `GDK` pointing to the SGDK directory (e.g. "D:/GenesisDev/SGDK").
 * Install Visual Studio Code.
 * Install the following extensions in vsCode: `C/C++ for Visual Studio Code`
-* Clone this github repo: `git clone https://github.com/pleft/SEGA_VSCode_Template.git`.
+* Clone this github repo: `git clone https://github.com/daveuat/SEGA_VSCode_Template.git`.
 
 === Usage
 
